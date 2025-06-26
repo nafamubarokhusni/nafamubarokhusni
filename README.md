@@ -6,7 +6,7 @@
 - instagram : @husni_n_m_15
 - Twitter   : @HusniNafaMubar1
 - Youtube   : HNM_tech
-- Website   : HNM_tech
+- Website   : https://nafamubarokhusni.github.io/hnm.portofolio/
 - Linkedin  : https://www.linkedin.com/in/hnm-tech/
 <!---
 nafamubarokhusni/nafamubarokhusni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
